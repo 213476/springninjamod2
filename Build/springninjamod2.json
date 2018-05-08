@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "springninjamod2.data.unityweb",
+"asmCodeUrl": "springninjamod2.asm.code.unityweb",
+"asmMemoryUrl": "springninjamod2.asm.memory.unityweb",
+"asmFrameworkUrl": "springninjamod2.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
